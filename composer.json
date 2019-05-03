@@ -1,5 +1,5 @@
 {
-    "name": "openview/fpdm",
+    "name": "gresci/fpdm",
     "type": "symfony-bundle",
     "title": "FpdmBundle",
     "description": "FPDM adaption to Symfony",
